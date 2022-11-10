@@ -8,7 +8,7 @@ public class Cerchio extends Forma {
 
     @Override
     public double area() {
-        return raggio * raggio * Math.PI; 
+        return raggio * raggio * Math.PI;  // ciao ciao ciao !!s
     }
 
     public double getRaggio() {
