@@ -17,7 +17,7 @@ public class Cerchio extends Forma {
 
     @Override
     public String toString() {
-        return "Cerchio [raggio=" + raggio + "]";
+        return "Cerchio [raggio=" + raggio + "]";   // modifica, fai il merge tu !!
     }
 
     @Override
